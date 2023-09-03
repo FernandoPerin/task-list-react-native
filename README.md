@@ -6,7 +6,8 @@
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a>
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-ambiente-de-simulação">Ambiente de simulação</a>
 </p>
 
 ## 💻 Sobre o projeto
