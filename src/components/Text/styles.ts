@@ -1,23 +1,24 @@
 import styled, {css} from 'styled-components/native';
-import {TextStyleProps} from '../../props';
+import {TextStyleProps} from '@src/props';
+import {Theme} from '@src/styles/theme';
 
 const variantText = {
-  body: theme => css`
+  body: (theme: Theme) => css`
     ${theme.typography.variants.body};
   `,
-  input: theme => css`
+  input: (theme: Theme) => css`
     ${theme.typography.variants.input};
   `,
-  title: theme => css`
+  title: (theme: Theme) => css`
     ${theme.typography.variants.title};
   `,
-  subtitle: theme => css`
+  subtitle: (theme: Theme) => css`
     ${theme.typography.variants.subtitle};
   `,
-  button: theme => css`
+  button: (theme: Theme) => css`
     ${theme.typography.variants.button};
   `,
-  footer: theme => css`
+  footer: (theme: Theme) => css`
     ${theme.typography.variants.footer};
   `,
 };

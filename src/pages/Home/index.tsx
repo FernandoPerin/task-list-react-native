@@ -5,7 +5,6 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 import * as S from './styles';
 import {useTheme} from '@src/styles/ThemeProvider';
 import {Header} from '@src/components/Header';
-import {Footer} from '@src/components/Footer';
 import {ListTask} from '@src/components/ListTask';
 import {NewTask} from '@src/components/NewTask';
 import {TaskProps} from '@src/props';
@@ -157,7 +156,6 @@ export function Home() {
           <S.Icon onPress={changeModal} underlayColor="none">
             <Icon name="plus-circle" size={60} color={theme.colors.primary} />
           </S.Icon>
-          <Footer />
         </S.FooterContainer>
       </S.Container>
 
