@@ -37,6 +37,8 @@ $ cd task-list-react-native
 # Instale as dependências
 $ npm install
 
+# Inicie o aplicativo de simulação Android.
+
 # Execute a aplicação em modo de desenvolvimento
 $ npx react-native start
 
