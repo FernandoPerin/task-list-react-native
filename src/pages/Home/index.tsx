@@ -87,6 +87,7 @@ export function Home() {
   }
 
   function changeModal() {
+    setNewTask('');
     setModalVisible(!modalVisible);
   }
 
