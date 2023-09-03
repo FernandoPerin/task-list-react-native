@@ -11,7 +11,7 @@
 
 ## 💻 Sobre o projeto
 
-TaskList - É um aplicativo mobile com o objetivo do gerenciamento de tarefas criadas pelo usuário.
+TaskList é um aplicativo mobile com o objetivo do gerenciamento de tarefas criadas pelo usuário.
 
 ---
 
