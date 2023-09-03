@@ -54,3 +54,12 @@ As seguintes ferramentas e pacotes foram usados na construção do projeto:
 - **[Vector Icons](https://www.npmjs.com/package/react-native-vector-icons)**
 - **[Styled Components](https://styled-components.com/)**
 - **[Module Resolver](https://www.npmjs.com/package/babel-plugin-module-resolver)**
+
+---
+
+## 📱 Ambiente de simulação do projeto
+
+O projeto foi executado através da virtualização de um celular feita pelo aplicativo do Android Studio. Segue todas as especificações:
+
+- [x] Hardware: Pixel 4
+- [x] System Image: Tiramisu API 33 (Android 13.0)
