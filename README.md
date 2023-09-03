@@ -57,7 +57,7 @@ As seguintes ferramentas e pacotes foram usados na construção do projeto:
 
 ---
 
-## 📱 Ambiente de simulação do projeto
+## 📱 Ambiente de simulação
 
 O projeto foi executado através da virtualização de um celular feita pelo aplicativo do Android Studio. Segue todas as especificações:
 
