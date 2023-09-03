@@ -10,7 +10,7 @@ export function Header() {
       </S.HeaderLogo>
       <S.HeaderContent>
         <Text variant="title">Lista de Tarefas</Text>
-        <Text>Crie e gerencie suas tasks com um clique!</Text>
+        <Text>Crie e gerencie suas tarefas com um clique!</Text>
       </S.HeaderContent>
     </S.Container>
   );
